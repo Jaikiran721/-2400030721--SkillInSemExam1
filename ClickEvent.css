@@ -1,0 +1,26 @@
+/* src/basics/ClickEvent.css */
+.click-event-container {
+  text-align: center;
+  margin-top: 80px;
+  font-family: Arial, sans-serif;
+}
+
+.click-btn {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  padding: 12px 25px;
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.click-btn:hover {
+  background-color: #45a049;
+}
+
+h2 {
+  color: #333;
+  margin-bottom: 20px;
+}
